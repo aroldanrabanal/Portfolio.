@@ -1,4 +1,6 @@
 # Portfolio.
+Hace mucho tiempo que creé este portafolio, aunque lo dejo de referencia para que se pueda ver algo.
+
 En la carpeta de SIMULACIÓN MONOGRAFÍA,
 estoy en proceso de terminar una simulación la cual
 describe la trayectoria de una pelota y las variaciones 
